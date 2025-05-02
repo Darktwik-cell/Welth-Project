@@ -1,23 +1,57 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
+# 💸 Welth Expense Tracker
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+Welth is a modern, mobile-friendly expense tracking application built to help users manage their finances easily and efficiently. With features like secure login, real-time updates, and visual reporting, SpendSmart makes personal budgeting smarter and simpler.
 
-### Make sure to create a `.env` file with following variables -
+---
 
-```
-DATABASE_URL=
-DIRECT_URL=
+## 🚀 Features
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+- 🔐 *Secure Login* – Keep your data safe with authenticated access.
+- 📱 *Mobile Compatibility* – Enjoy a seamless experience across devices.
+- 📊 *Visual Summary Reports* – View charts of income and expenses.
+- 📝 *Transaction Recording* – Add income and expenses with detailed descriptions.
+- 🔄 *Real-Time Balance Updates* – See instant changes in your total balance.
+- 🧾 *Categorization* – Group transactions into predefined spending categories.
+- 🔍 *Search Transactions* – Find transactions quickly with keyword search.
+- 💼 *Multi-Account Support* – Track finances across multiple accounts.
 
-GEMINI_API_KEY=
+---
 
-RESEND_API_KEY=
+## 🛠 Tech Stack
 
-ARCJET_KEY=
-```
+- *Frontend*: React, Tailwind CSS
+- *Backend*: Node.js, Express
+- *Database*: MongoDB
+- *Authentication*: Clerk
+- *Deployment*: Vercel 
+
+---
+
+## 📌 Goals
+
+- Deliver a secure and responsive personal finance app.
+- Provide real-time insights through visual data.
+- Allow data analysis .
+- Ensure accessibility across all major devices and browsers.
+
+---
+
+## 🧪 Testing
+
+- ✅ Unit Tests for core components
+- ✅ Manual QA for each user story
+- ✅ Cross-browser and responsive UI testing
+
+---
+
+
+
+---
+
+
+
+---
+
+## 📬 Contact
+
+For suggestions or feedback, feel free to open an issue or reach out at ashishchall20@gmail.com
